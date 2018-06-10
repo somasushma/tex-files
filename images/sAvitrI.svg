@@ -1,0 +1,2230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="sAvitrI.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker20229"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path20227"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker19647"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path19645" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker18465"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path18463"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker13529"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path13527" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker13217"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path13215"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker12869"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path12867" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker12689"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path12687"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker11706"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:0.76078431;fill:#0000ff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path11704" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker11334"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#800000;stroke-width:1pt;stroke-opacity:1;fill:#800000;fill-opacity:0.76078431"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path11332" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker11040"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path11038"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#800000;stroke-width:1pt;stroke-opacity:1;fill:#800000;fill-opacity:0.76078431"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker10758"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#800000;stroke-width:1pt;stroke-opacity:1;fill:#800000;fill-opacity:0.76078431"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path10756" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker10476"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path10474"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#800000;stroke-width:1pt;stroke-opacity:1;fill:#800000;fill-opacity:0.76078431"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker10230"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path10228"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#800000;stroke-width:1pt;stroke-opacity:1;fill:#800000;fill-opacity:0.96470588"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker9876"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#800000;stroke-width:1pt;stroke-opacity:1;fill:#800000;fill-opacity:0.96470588"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path9874" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9606"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path9604"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#800000;stroke-width:1pt;stroke-opacity:1;fill:#800000;fill-opacity:0.96470588"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker9354"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#800000;stroke-width:1pt;stroke-opacity:1;fill:#800000;fill-opacity:0.96470588"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path9352" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker9006"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#800000;stroke-width:1pt;stroke-opacity:1;fill:#800000;fill-opacity:0.76078431"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path9004" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8766"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path8764"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#800000;stroke-width:1pt;stroke-opacity:1;fill:#800000;fill-opacity:0.96470588"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8544"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path8542"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:0.76078431;fill:#0000ff;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker8286"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:0.76078431;fill:#0000ff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path8284" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8082"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path8080"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:0.76078431;fill:#0000ff;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker7848"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:0.76078431;fill:#0000ff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path7846" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker7668"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path7666"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:0.76078431;fill:#0000ff;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker7416"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:0.76078431;fill:#0000ff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path7414" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker7266"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path7264"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:0.76078431;fill:#0000ff;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker7092"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:0.76078431;fill:#0000ff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path7090" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker6810"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path6808"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:0.76078431;fill:#0000ff;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker6624"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:0.76078431;fill:#0000ff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path6622" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker6312"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path6310"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#800000;stroke-width:1pt;stroke-opacity:1;fill:#800000;fill-opacity:0.76078431"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5742"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#800000;stroke-width:1pt;stroke-opacity:1;fill:#800000;fill-opacity:0.96470588"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5740" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5268"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:0.76078431;fill:#0000ff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5266" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4809"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:0.76078431;fill:#0000ff;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4815"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-6" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-4" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-30"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-41" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-30-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-2-6" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-3-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-9-5" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-0-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-4-5" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-1-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-6-1" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-1" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-30-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-2-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-3-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-9-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-0-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-4-4" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-1-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-6-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-34"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-30-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-2-66" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-3-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-9-84" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-0-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-4-7" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-1-09"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-6-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-09"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-3" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-30-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-2-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-3-87"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-9-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-0-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-4-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-1-34"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-6-6" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-98"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-11" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-30-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-2-92" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-3-44"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-9-7" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-0-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-4-6" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-1-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-6-3" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13529-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13527-31" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.66"
+     inkscape:cx="654.68751"
+     inkscape:cy="403.27778"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+    <sodipodi:guide
+       position="0,15.875"
+       orientation="0,1"
+       id="guide12475"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2.6458334,76.729165"
+       orientation="0,1"
+       id="guide12477"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9375px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="53.157188"
+       y="162.375"
+       id="text4522"><tspan
+         sodipodi:role="line"
+         x="53.157188"
+         y="162.375"
+         style="stroke-width:0.26458332px"
+         id="tspan4708"><tspan
+   style="fill:#0000ff"
+   id="tspan4694">तत्</tspan> <tspan
+   style="fill:#800000"
+   id="tspan4696">स॑</tspan><tspan
+   style="fill:#0000ff"
+   id="tspan4698">वि॒</tspan><tspan
+   style="fill:#800000"
+   id="tspan4700">तुर्</tspan> <tspan
+   style="fill:#0000ff"
+   id="tspan4702">व</tspan><tspan
+   style="fill:#800000"
+   id="tspan4704">रे॑</tspan><tspan
+   id="tspan4728"
+   style="fill:#0000ff">णि</tspan><tspan
+   style="fill:#800000"
+   id="tspan4730">य॒म्</tspan> <tspan
+   style="fill:#0000ff"
+   id="tspan4734">भ</tspan><tspan
+   style="fill:#800000"
+   id="tspan4736">र्गो॑</tspan> <tspan
+   style="fill:#0000ff"
+   id="tspan4738">दे॒</tspan><tspan
+   id="tspan4762"
+   style="fill:#800000">व</tspan><tspan
+   id="tspan4768"
+   style="fill:#0000ff">स्य॑</tspan> <tspan
+   style="fill:#800000"
+   id="tspan4744">धी</tspan><tspan
+   id="tspan4772"
+   style="fill:#0000ff">म</tspan><tspan
+   id="tspan4778"
+   style="fill:#800000">हि</tspan> । <tspan
+   style="fill:#0000ff"
+   id="tspan4750">धि</tspan><tspan
+   id="tspan4784"
+   style="fill:#800000">यो॒</tspan> <tspan
+   style="fill:#0000ff"
+   id="tspan4754">यो</tspan> <tspan
+   style="fill:#800000"
+   id="tspan4756">नः॑</tspan> <tspan
+   style="fill:#0000ff"
+   id="tspan4758">प्र</tspan><tspan
+   style="fill:#800000"
+   id="tspan4792">चो॒</tspan><tspan
+   style="fill:#0000ff"
+   id="tspan4794">द</tspan><tspan
+   style="fill:#800000"
+   id="tspan4796">या॑त्</tspan> ॥</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="12.898437"
+       y="200.07812"
+       id="text4526"><tspan
+         sodipodi:role="line"
+         id="tspan4524"
+         x="12.898437"
+         y="200.07812"
+         style="font-size:8.46666622px;fill:#800000;stroke-width:0.26458332px">सावित्री</tspan><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="206.25174"
+         style="stroke-width:0.26458332px"
+         id="tspan4530" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="212.42535"
+         style="stroke-width:0.26458332px"
+         id="tspan4546" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="218.59895"
+         style="stroke-width:0.26458332px"
+         id="tspan4548" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="224.77257"
+         style="stroke-width:0.26458332px"
+         id="tspan4550" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="230.94618"
+         style="stroke-width:0.26458332px"
+         id="tspan4552" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="237.11978"
+         style="stroke-width:0.26458332px"
+         id="tspan4554" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="243.2934"
+         style="stroke-width:0.26458332px"
+         id="tspan4556" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="249.46701"
+         style="stroke-width:0.26458332px"
+         id="tspan4558" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="255.64062"
+         style="stroke-width:0.26458332px"
+         id="tspan4560" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="261.81424"
+         style="stroke-width:0.26458332px"
+         id="tspan4562" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="267.98785"
+         style="stroke-width:0.26458332px"
+         id="tspan4564" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="274.16144"
+         style="stroke-width:0.26458332px"
+         id="tspan4566" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="280.33505"
+         style="stroke-width:0.26458332px"
+         id="tspan4568" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="286.50867"
+         style="stroke-width:0.26458332px"
+         id="tspan4570" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="292.68228"
+         style="stroke-width:0.26458332px"
+         id="tspan4572" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="298.8559"
+         style="stroke-width:0.26458332px"
+         id="tspan4574" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="305.02951"
+         style="stroke-width:0.26458332px"
+         id="tspan4576" /><tspan
+         sodipodi:role="line"
+         x="12.898437"
+         y="311.20312"
+         style="stroke-width:0.26458332px"
+         id="tspan4578" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54.359844"
+       y="134.90524"
+       id="text4582"><tspan
+         sodipodi:role="line"
+         id="tspan4580"
+         x="54.359844"
+         y="134.90524"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332px">मनः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="64.241631"
+       y="191.04979"
+       id="text4586"><tspan
+         sodipodi:role="line"
+         id="tspan4584"
+         x="64.241631"
+         y="191.04979"
+         style="font-size:6.3499999px;fill:#800000;stroke-width:0.26458332px">वाक्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="72.219223"
+       y="120.9896"
+       id="text4590"><tspan
+         sodipodi:role="line"
+         id="tspan4588"
+         x="72.219223"
+         y="120.9896"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332px">अग्निः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="78.893936"
+       y="204.89113"
+       id="text4594"><tspan
+         sodipodi:role="line"
+         id="tspan4592"
+         x="78.893936"
+         y="204.89113"
+         style="font-size:6.3499999px;fill:#800000;stroke-width:0.26458332px">पृथिवी</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="91.100853"
+       y="134.90524"
+       id="text4598"><tspan
+         sodipodi:role="line"
+         id="tspan4596"
+         x="91.100853"
+         y="134.90524"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332px">वायुः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="86.831436"
+       y="191.04979"
+       id="text4602"><tspan
+         sodipodi:role="line"
+         id="tspan4600"
+         x="86.831436"
+         y="191.04979"
+         style="font-size:6.3499999px;fill:#800000;stroke-width:0.26458332px">अन्तरिक्षम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="97.354637"
+       y="120.9896"
+       id="text4606"><tspan
+         sodipodi:role="line"
+         id="tspan4604"
+         x="97.354637"
+         y="120.9896"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332px">आदित्यः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="110.5838"
+       y="204.89113"
+       id="text4610"><tspan
+         sodipodi:role="line"
+         id="tspan4608"
+         x="110.5838"
+         y="204.89113"
+         style="font-size:6.3499999px;fill:#800000;stroke-width:0.26458332px">द्यौः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="120.48159"
+       y="134.90524"
+       id="text4614"><tspan
+         sodipodi:role="line"
+         id="tspan4612"
+         x="120.48159"
+         y="134.90524"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332px">चन्द्रमाः </tspan><tspan
+         sodipodi:role="line"
+         x="120.48159"
+         y="142.84274"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332px"
+         id="tspan4616" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="121.37161"
+       y="191.04979"
+       id="text4620"><tspan
+         sodipodi:role="line"
+         id="tspan4618"
+         x="121.37161"
+         y="191.04979"
+         style="font-size:6.3499999px;fill:#800000;stroke-width:0.26458332px">नक्षत्राणि</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="136.50095"
+       y="120.9896"
+       id="text4624"><tspan
+         sodipodi:role="line"
+         id="tspan4622"
+         x="136.50095"
+         y="120.9896"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332px">अहर्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="140.34937"
+       y="204.89113"
+       id="text4628"><tspan
+         sodipodi:role="line"
+         id="tspan4626"
+         x="140.34937"
+         y="204.89113"
+         style="font-size:6.3499999px;fill:#800000;stroke-width:0.26458332px">रात्रिः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="148.94839"
+       y="134.90524"
+       id="text4632"><tspan
+         sodipodi:role="line"
+         id="tspan4630"
+         x="148.94839"
+         y="134.90524"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332px">उश्नम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="156.48898"
+       y="191.04979"
+       id="text4636"><tspan
+         sodipodi:role="line"
+         id="tspan4634"
+         x="156.48898"
+         y="191.04979"
+         style="font-size:6.3499999px;fill:#800000;stroke-width:0.26458332px">शीतम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="164.2822"
+       y="120.9896"
+       id="text4640"><tspan
+         sodipodi:role="line"
+         id="tspan4638"
+         x="164.2822"
+         y="120.9896"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332px">अभ्रम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="172.31589"
+       y="204.89113"
+       id="text4644"><tspan
+         sodipodi:role="line"
+         id="tspan4642"
+         x="172.31589"
+         y="204.89113"
+         style="font-size:6.3499999px;fill:#800000;stroke-width:0.26458332px">वर्षम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="186.83189"
+       y="134.90524"
+       id="text4648"><tspan
+         sodipodi:role="line"
+         id="tspan4646"
+         x="186.83189"
+         y="134.90524"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332px">विद्युत्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="192.00328"
+       y="191.04979"
+       id="text4652"><tspan
+         sodipodi:role="line"
+         id="tspan4650"
+         x="192.00328"
+         y="191.04979"
+         style="font-size:6.3499999px;fill:#800000;stroke-width:0.26458332px">स्तनयित्नुः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="206.79593"
+       y="120.9896"
+       id="text4656"><tspan
+         sodipodi:role="line"
+         id="tspan4654"
+         x="206.79593"
+         y="120.9896"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332px">प्राणः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="215.63538"
+       y="204.89113"
+       id="text4660"><tspan
+         sodipodi:role="line"
+         id="tspan4658"
+         x="215.63538"
+         y="204.89113"
+         style="font-size:6.3499999px;fill:#800000;stroke-width:0.26458332px">अन्नम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="228.74431"
+       y="134.90524"
+       id="text4664"><tspan
+         sodipodi:role="line"
+         id="tspan4662"
+         x="228.74431"
+         y="134.90524"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332px">वेदाः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="228.53983"
+       y="191.04979"
+       id="text4668"><tspan
+         sodipodi:role="line"
+         id="tspan4666"
+         x="228.53983"
+         y="191.04979"
+         style="font-size:6.3499999px;fill:#800000;stroke-width:0.26458332px">छन्दांसि</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="242.3463"
+       y="120.9896"
+       id="text4672"><tspan
+         sodipodi:role="line"
+         id="tspan4670"
+         x="242.3463"
+         y="120.9896"
+         style="font-size:6.3499999px;fill:#0000ff;stroke-width:0.26458332px">यज्ञ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="248.58804"
+       y="204.89113"
+       id="text4676"><tspan
+         sodipodi:role="line"
+         id="tspan4674"
+         x="248.58804"
+         y="204.89113"
+         style="font-size:6.3499999px;fill:#800000;stroke-width:0.26458332px">दक्षिणा</tspan></text>
+    <path
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.76078431;marker-end:url(#Arrow1Mend)"
+       d="m 58.208329,152.27308 v -15.875"
+       id="path5102"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5264"
+       d="M 76.729163,152.27307 V 123.1689"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.76078431;marker-end:url(#marker5268)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5738"
+       d="m 68.791663,168.14808 v 15.875"
+       style="fill:#800000;fill-opacity:0.96470588;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5742)" />
+    <path
+       style="fill:#800000;fill-opacity:0.76078431;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6312)"
+       d="m 84.666663,168.14808 v 29.10417"
+       id="path6308"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6620"
+       d="m 95.249996,152.27308 v -15.875"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.76078431;marker-end:url(#marker6624)" />
+    <path
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.76078431;marker-end:url(#marker6810)"
+       d="M 105.83333,152.27308 V 123.16891"
+       id="path6806"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7088"
+       d="M 140.22916,152.27308 V 123.16891"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.76078431;marker-end:url(#marker7092)" />
+    <path
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.76078431;marker-end:url(#marker7266)"
+       d="m 124.35416,152.27308 v -15.875"
+       id="path7262"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7412"
+       d="m 153.45833,152.27308 v -15.875"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.76078431;marker-end:url(#marker7416)" />
+    <path
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.76078431;marker-end:url(#marker7668)"
+       d="m 193.14583,152.27308 v -15.875"
+       id="path7664"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7844"
+       d="m 232.83333,152.27308 v -15.875"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.76078431;marker-end:url(#marker7848)" />
+    <path
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.76078431;marker-end:url(#marker8082)"
+       d="M 169.33333,152.27308 V 123.16891"
+       id="path8078"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8282"
+       d="M 211.66666,152.27308 V 123.16891"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.76078431;marker-end:url(#marker8286)" />
+    <path
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.76078431;marker-end:url(#marker8544)"
+       d="M 246.06249,152.27308 V 123.16891"
+       id="path8540"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#800000;fill-opacity:0.96470588;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8766)"
+       d="m 97.89583,168.14808 v 15.875"
+       id="path8762"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9002"
+       d="m 113.77083,168.14808 v 29.10417"
+       style="fill:#800000;fill-opacity:0.76078431;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9006)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9350"
+       d="m 131.49792,168.14808 v 15.875"
+       style="fill:#800000;fill-opacity:0.96470588;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9354)" />
+    <path
+       style="fill:#800000;fill-opacity:0.96470588;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9606)"
+       d="m 164.04166,168.14808 v 15.875"
+       id="path9602"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9872"
+       d="m 201.08333,168.14808 v 15.875"
+       style="fill:#800000;fill-opacity:0.96470588;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9876)" />
+    <path
+       style="fill:#800000;fill-opacity:0.96470588;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10230)"
+       d="m 238.12499,168.14808 v 15.875"
+       id="path10226"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#800000;fill-opacity:0.76078431;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10476)"
+       d="m 146.57918,168.14807 v 29.10417"
+       id="path10472"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path10754"
+       d="m 177.27083,168.14808 v 29.10417"
+       style="fill:#800000;fill-opacity:0.76078431;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10758)" />
+    <path
+       style="fill:#800000;fill-opacity:0.76078431;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11040)"
+       d="m 222.24999,168.14808 v 29.10417"
+       id="path11036"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11330"
+       d="m 253.99999,168.14807 v 29.10417"
+       style="fill:#800000;fill-opacity:0.76078431;fill-rule:evenodd;stroke:#800000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11334)" />
+    <g
+       id="g11678"
+       transform="matrix(1.1401608,0,0,1.203162,15.947861,-115.97623)"
+       style="fill:#0000ff">
+      <text
+         transform="scale(0.56143541,1.7811488)"
+         id="text11650"
+         y="122.18238"
+         x="33.658245"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.77286696px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:19.8061924px;fill:#0000ff;stroke-width:0.26458332px"
+           y="122.18238"
+           x="33.658245"
+           id="tspan11648"
+           sodipodi:role="line">{</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="14.055989"
+       y="135.76038"
+       id="text11682"><tspan
+         sodipodi:role="line"
+         id="tspan11680"
+         x="14.055989"
+         y="135.76038"
+         style="font-size:8.46666622px;fill:#0000ff;stroke-width:0.26458332px">सविता</tspan></text>
+    <g
+       style="fill:#800000"
+       transform="matrix(1.1401608,0,0,1.203162,15.947861,-52.704835)"
+       id="g11688">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.77286696px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="33.658245"
+         y="122.18238"
+         id="text11686"
+         transform="scale(0.56143541,1.7811488)"><tspan
+           sodipodi:role="line"
+           id="tspan11684"
+           x="33.658245"
+           y="122.18238"
+           style="font-size:19.8061924px;fill:#800000;stroke-width:0.26458332px">{</tspan></text>
+    </g>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:0.76078431;fill-rule:nonzero;stroke:#00a1a1;stroke-width:0.67546254;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.67546253, 1.35092505;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect11690"
+       width="71.4375"
+       height="173.8311"
+       x="47.625"
+       y="112.58558" />
+    <rect
+       y="112.58997"
+       x="119.30743"
+       height="173.82671"
+       width="65.89653"
+       id="rect11692"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:0.76078431;fill-rule:nonzero;stroke:#eea1a1;stroke-width:0.6487298;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.64872981, 1.29745961;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:0.76078431;fill-rule:nonzero;stroke:#451da1;stroke-width:0.72376949;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.72376946, 1.44753893;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect11694"
+       width="82.020851"
+       height="173.8311"
+       x="185.20833"
+       y="112.58558" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="61.040073"
+       y="226.69379"
+       id="text12270"><tspan
+         sodipodi:role="line"
+         id="tspan12268"
+         x="61.040073"
+         y="226.69379"
+         style="fill:#2b0000;stroke-width:0.26458332px;font-size:5.64444444px;">पृथिवी</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="62.791042"
+       y="237.94339"
+       id="text12274"><tspan
+         sodipodi:role="line"
+         id="tspan12272"
+         x="62.791042"
+         y="237.94339"
+         style="fill:#2b0000;stroke-width:0.26458332px;font-size:5.64444444px;">ऋक्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="62.002728"
+       y="249.19299"
+       id="text12278"><tspan
+         sodipodi:role="line"
+         id="tspan12276"
+         x="62.002728"
+         y="249.19299"
+         style="fill:#2b0000;stroke-width:0.26458332px;font-size:5.64444444px;">अग्निः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="64.236053"
+       y="260.4426"
+       id="text12282"><tspan
+         sodipodi:role="line"
+         id="tspan12280"
+         x="64.236053"
+         y="260.4426"
+         style="fill:#2b0000;stroke-width:0.26458332px;font-size:5.64444444px;">श्री</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="64.271576"
+       y="271.6922"
+       id="text12286"><tspan
+         sodipodi:role="line"
+         id="tspan12284"
+         x="64.271576"
+         y="271.6922"
+         style="fill:#2b0000;stroke-width:0.26458332px;font-size:5.64444444px;">स्त्री</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="59.771778"
+       y="282.9418"
+       id="text12290"><tspan
+         sodipodi:role="line"
+         id="tspan12288"
+         x="59.771778"
+         y="282.9418"
+         style="fill:#2b0000;stroke-width:0.26458332px;font-size:5.64444444px;">मिथुनम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="97.999641"
+       y="226.69379"
+       id="text12294"><tspan
+         sodipodi:role="line"
+         id="tspan12292"
+         x="97.999641"
+         y="226.69379"
+         style="fill:#2b0000;stroke-width:0.26458332px;font-size:5.64444444px;">प्रजा</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="98.537468"
+       y="237.94339"
+       id="text12298"><tspan
+         sodipodi:role="line"
+         id="tspan12296"
+         x="98.537468"
+         y="237.94339"
+         style="fill:#2b0000;stroke-width:0.26458332px;font-size:5.64444444px;">कर्म</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="97.266716"
+       y="249.19299"
+       id="text12302"><tspan
+         sodipodi:role="line"
+         id="tspan12300"
+         x="97.266716"
+         y="249.19299"
+         style="fill:#2b0000;stroke-width:0.26458332px;font-size:5.64444444px;">तपस्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="96.186333"
+       y="260.4426"
+       id="text12306"><tspan
+         sodipodi:role="line"
+         id="tspan12304"
+         x="96.186333"
+         y="260.4426"
+         style="fill:#2b0000;stroke-width:0.26458332px;font-size:5.64444444px;">सत्यम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="98.71846"
+       y="271.6922"
+       id="text12310"><tspan
+         sodipodi:role="line"
+         id="tspan12308"
+         x="98.71846"
+         y="271.6922"
+         style="fill:#2b0000;stroke-width:0.26458332px;font-size:5.64444444px;">ब्रह्म</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="94.613991"
+       y="282.9418"
+       id="text12314"><tspan
+         sodipodi:role="line"
+         id="tspan12312"
+         x="94.613991"
+         y="282.9418"
+         style="fill:#2b0000;stroke-width:0.26458332px;font-size:5.64444444px;">ब्राह्मणम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="127.31781"
+       y="226.69379"
+       id="text12322"><tspan
+         sodipodi:role="line"
+         id="tspan12320"
+         x="127.31781"
+         y="226.69379"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">अन्तरिक्षम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="133.24738"
+       y="237.94339"
+       id="text12326"><tspan
+         sodipodi:role="line"
+         id="tspan12324"
+         x="133.24738"
+         y="237.94339"
+         style="font-size:5.64444447px;stroke-width:0.26458332px">यजुः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="133.15573"
+       y="249.19299"
+       id="text12330"><tspan
+         sodipodi:role="line"
+         id="tspan12328"
+         x="133.15573"
+         y="249.19299"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">वायुः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="131.72133"
+       y="260.4426"
+       id="text12334"><tspan
+         sodipodi:role="line"
+         id="tspan12332"
+         x="131.72133"
+         y="260.4426"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">अभ्रम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="132.74559"
+       y="271.6922"
+       id="text12338"><tspan
+         sodipodi:role="line"
+         id="tspan12336"
+         x="132.74559"
+         y="271.6922"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">वर्षम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="123.02021"
+       y="282.9418"
+       id="text12342"><tspan
+         sodipodi:role="line"
+         id="tspan12340"
+         x="123.02021"
+         y="282.9418"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">ओषधिवनस्पती</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="204.94247"
+       y="226.69379"
+       id="text12374"><tspan
+         sodipodi:role="line"
+         id="tspan12372"
+         x="204.94247"
+         y="226.69379"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">द्यौः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="203.6236"
+       y="237.94339"
+       id="text12378"><tspan
+         sodipodi:role="line"
+         id="tspan12376"
+         x="203.6236"
+         y="237.94339"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">साम</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="199.9584"
+       y="249.19299"
+       id="text12382"><tspan
+         sodipodi:role="line"
+         id="tspan12380"
+         x="199.9584"
+         y="249.19299"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">आदित्यः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="202.96797"
+       y="260.4426"
+       id="text12386"><tspan
+         sodipodi:role="line"
+         id="tspan12384"
+         x="202.96797"
+         y="260.4426"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">रश्मिः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="203.16313"
+       y="271.6922"
+       id="text12390"><tspan
+         sodipodi:role="line"
+         id="tspan12388"
+         x="203.16313"
+         y="271.6922"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">वर्षम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="193.43774"
+       y="282.9418"
+       id="text12394"><tspan
+         sodipodi:role="line"
+         id="tspan12392"
+         x="193.43774"
+         y="282.9418"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">ओषधिवनस्पती</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="224.89583"
+       y="246.72917"
+       id="text12410"><tspan
+         sodipodi:role="line"
+         id="tspan12408"
+         x="224.89583"
+         y="250.70497"
+         style="stroke-width:0.26458332px"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="237.9953"
+       y="226.69379"
+       id="text12398"><tspan
+         sodipodi:role="line"
+         id="tspan12396"
+         x="237.9953"
+         y="226.69379"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">पशवः</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="239.37256"
+       y="237.94339"
+       id="text12402"
+       inkscape:transform-center-x="1.5033144"
+       inkscape:transform-center-y="12.928499"><tspan
+         sodipodi:role="line"
+         id="tspan12400"
+         x="239.37256"
+         y="237.94339"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">कर्म</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="238.10181"
+       y="249.19299"
+       id="text12406"><tspan
+         sodipodi:role="line"
+         id="tspan12404"
+         x="238.10181"
+         y="249.19299"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">तपस्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="239.55356"
+       y="271.6922"
+       id="text12414"><tspan
+         sodipodi:role="line"
+         id="tspan12412"
+         x="239.55356"
+         y="271.6922"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">ब्रह्म</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="235.44908"
+       y="282.9418"
+       id="text12418"><tspan
+         sodipodi:role="line"
+         id="tspan12416"
+         x="235.44908"
+         y="282.9418"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">ब्राह्मणम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="237.02142"
+       y="260.4426"
+       id="text12358-0"><tspan
+         sodipodi:role="line"
+         id="tspan12356-6"
+         x="237.02142"
+         y="260.4426"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">सत्यम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="166.25714"
+       y="225.43661"
+       id="text12398-8"><tspan
+         sodipodi:role="line"
+         id="tspan12396-5"
+         x="166.25714"
+         y="229.41241"
+         style="stroke-width:0.26458332px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="168.95502"
+       y="237.94339"
+       id="text12350"><tspan
+         sodipodi:role="line"
+         id="tspan12348"
+         x="168.95502"
+         y="237.94339"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">कर्म</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="167.68427"
+       y="249.19299"
+       id="text12354"><tspan
+         sodipodi:role="line"
+         id="tspan12352"
+         x="167.68427"
+         y="249.19299"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">तपस्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="166.60388"
+       y="260.4426"
+       id="text12358"><tspan
+         sodipodi:role="line"
+         id="tspan12356"
+         x="166.60388"
+         y="260.4426"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">सत्यम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="169.13602"
+       y="271.6922"
+       id="text12362"><tspan
+         sodipodi:role="line"
+         id="tspan12360"
+         x="169.13602"
+         y="271.6922"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">ब्रह्म</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="165.03154"
+       y="282.9418"
+       id="text12366"><tspan
+         sodipodi:role="line"
+         id="tspan12364"
+         x="165.03154"
+         y="282.9418"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">ब्राह्मणम्</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444444px;line-height:125%;font-family:Siddhanta;-inkscape-font-specification:Siddhanta;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="167.57776"
+       y="226.69379"
+       id="text12398-7"><tspan
+         sodipodi:role="line"
+         id="tspan12396-9"
+         x="167.57776"
+         y="226.69379"
+         style="stroke-width:0.26458332px;font-size:5.64444444px;">पशवः</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker12689)"
+       d="M 84.666666,207.04167 V 217.625"
+       id="path12679"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path12865"
+       d="M 150.8125,207.04167 V 217.625"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12869)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13217)"
+       d="M 224.89583,207.04167 V 217.625"
+       id="path13213"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525"
+       d="M 68.791667,228.20834 V 233.5"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355327;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-7"
+       d="m 68.791667,238.79168 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3535533;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-1)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-8"
+       d="m 68.791666,249.37501 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3535533;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-0)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-83"
+       d="m 68.791666,260.22292 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3535533;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-3)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-77"
+       d="m 68.791666,272.39374 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3535533;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-30)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-89"
+       d="M 137.58333,228.20834 V 233.5"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3535533;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-8)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-7-6"
+       d="m 137.58333,238.79168 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-1-0)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-8-2"
+       d="m 137.58333,249.37501 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-0-9)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-83-5"
+       d="m 137.58333,260.22292 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-3-4)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-77-5"
+       d="m 137.58333,272.39374 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-30-0)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-832"
+       d="M 171.97917,228.20834 V 233.5"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3535533;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-34)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-7-8"
+       d="m 171.97917,238.79168 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-1-3)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-8-5"
+       d="m 171.97917,249.37501 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-0-8)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-83-3"
+       d="m 171.97917,260.22292 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-3-8)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-77-6"
+       d="m 171.97917,272.39374 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-30-2)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-84"
+       d="M 209.02083,228.20834 V 233.5"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3535533;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-09)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-7-5"
+       d="m 209.02083,238.79168 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-1-09)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-8-7"
+       d="m 209.02083,249.37501 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-0-2)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-83-8"
+       d="m 209.02083,260.22292 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-3-0)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-77-7"
+       d="m 209.02083,272.39374 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-30-4)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-1"
+       d="M 243.41667,228.20834 V 233.5"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3535533;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-98)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-7-0"
+       d="m 243.41667,238.79168 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-1-34)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-8-3"
+       d="m 243.41667,249.37501 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-0-5)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-83-37"
+       d="m 243.41667,260.22292 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-3-87)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-77-0"
+       d="m 243.41667,272.39374 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-30-3)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-73"
+       d="M 103.1875,228.20834 V 233.5"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3535533;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-4)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-7-51"
+       d="m 103.1875,238.79168 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-1-7)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-8-0"
+       d="m 103.1875,249.37501 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-0-0)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-83-6"
+       d="m 103.1875,260.22292 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-3-44)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13525-77-1"
+       d="m 103.1875,272.39374 v 5.29166"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13529-30-7)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355324;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker18465)"
+       d="M 74.08335,275.83332 95.249997,228.20833"
+       id="path18461"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path19643"
+       d="M 145.52085,275.83333 166.6875,228.20834"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355324;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker19647)"
+       inkscape:transform-center-x="56.585337"
+       inkscape:transform-center-y="-5.1294896" />
+    <path
+       inkscape:transform-center-y="-5.1294896"
+       inkscape:transform-center-x="56.585337"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35355324;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker20229)"
+       d="m 216.95833,275.83334 21.16665,-47.62499"
+       id="path20225"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
