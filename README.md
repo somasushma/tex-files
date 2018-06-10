@@ -3,9 +3,9 @@
 
 created and compiled in TeXworks editor with XeLaTeX for typesetting
 
-.tex files are TeX/ directory
+.tex files in TeX/ directory
 
-.pdf files are pdf/ directory
+.pdf files in pdf/ directory
 
-images are in images/ directory
+images in images/ directory
 
