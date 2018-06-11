@@ -1,0 +1,9 @@
+# This file lists (mostly temporary and intermediate) filetypes which need not clutter github during commits and pushes.
+
+# Tex files
+*.log
+*.aux
+*.aux
+
+# Intellij idea files.
+*.iml
