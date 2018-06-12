@@ -1,11 +1,6 @@
-# tex-files
-.pdf and .tex files for sharing
+# Mantra manuals
+- .pdf files in pdf/ directory
+- .tex and image files in the respective manual directories.
 
-created and compiled in TeXworks editor with XeLaTeX for typesetting
-
-.tex files in TeX/ directory
-
-.pdf files in pdf/ directory
-
-images in images/ directory
-
+## Updating the output
+- Just run `make pdf` or `make html` or `make epub` within the appropriate source directory.
