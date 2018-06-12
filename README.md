@@ -1,5 +1,6 @@
 # Mantra manuals
 - .pdf files in pdf/ directory
+- .epub files in epub/ directory
 - .tex and image files in the respective manual directories.
 
 ## Updating the output
