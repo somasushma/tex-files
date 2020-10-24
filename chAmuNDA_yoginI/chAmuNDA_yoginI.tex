@@ -1,0 +1,71 @@
+\documentclass[12pt]{article}
+\usepackage[margin=1.3in]{geometry}
+\usepackage{fontspec}
+\usepackage[english]{babel} 
+\newfontfamily\skt[Script=Devanagari]{Adobe Devanagari}
+\newfontfamily\sktr[Script=Devanagari]{Adishila}
+\usepackage{parskip}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{array}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+\usepackage{tikz}
+\usepackage{tikz-network}
+\usetikzlibrary{arrows, arrows.meta, patterns, shapes.geometric, shapes.misc, graphs, mindmap, calc}
+\title{\textbf{ {\color{Sepia}{\skt ॥ चामुण्डा-चतुःषष्टियोगिनीनां यागः ॥ }}}}
+\author{}
+\date{}
+\begin{document}
+	\maketitle
+\begin{center}
+	\tikzset{
+		petal3/.pic={
+			\draw[fill=#1] (0,0) .. controls (0,3) and (1.5,0) .. (2,0)  .. controls (1.5,0) and (0,-3) .. (0,0) -- cycle;
+		}
+	}
+	\begin{tikzpicture}
+	%petals
+		\foreach \x in {0,45,90, 135,180, 225,270, 315}{
+		\draw[RoyalBlue, fill=RoyalBlue!30!White, line width=.8] (\x:2.025) pic[scale=0.7071068, rotate=\x] {petal3};
+	}
+ %circles 
+	\draw[line width=1, Red, double] (0,0) circle(2);
+	\draw[line width=1, Red, double] (0,0) circle(.5);
+
+% cells
+\foreach \x in {22.5,  67.5, 112.5, 157.5, 202.5, 247.5, 292.5, 337.5}{
+	\draw[Red, line width=1, double] (\x:.5) -- (\x:2);
+}
+
+% numbers
+\foreach \x / \y in  {0/१, 315/२, 270/३, 225/४, 180/८, 135/७, 90/६, 45/५}{
+	\node[ProcessBlue!50!Black] (s1) at (\x:1.25) {\large{\skt{\y}}};
+}
+\node[ProcessBlue!50!Black] (s1) at (0,0) {\skt{९}};
+
+%doors
+\draw[Periwinkle, rounded corners=3pt, line width=1.5, double] (.5,-4.5) -- (.5, -4) -- (4, -4) -- (4,-.5) -- (4.5, -.5);
+\foreach \x / \y in {-1/1, 1/-1, -1/-1}{
+	\begin{scope}[xscale=\x, yscale=\y]
+	\draw[Periwinkle, rounded corners=3pt, line width=1.5, double] (.5,-4.5) -- (.5, -4) -- (4, -4) -- (4,-.5) -- (4.5, -.5);
+	\end{scope}}
+\end{tikzpicture}\\	
+
+\end{center}
+{\color{NavyBlue}{\large{\sktr
+ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे वौषट्॥\\[5pt]
+ॐ क्ष्रौं उग्रं वीरं महाविष्णुं ज्वलन्तं सर्वतोमुखम् ।\\ 
+नृसिंहम् भीषणम् भद्रं मृत्यु-मृत्यम् नमाय् अहम्  स्वाहा ॥\\[5pt]
+ॐ ह्सौं वीरभद्राय स्वाहा ॥\\[5pt]
+ॐ श्रीं वैश्रवणाय स्वाहा ॥\\[5pt]
+ॐ साहिलये स्वाहा ॥\\[5pt]
+ॐ नक्षत्र-ग्रहेभ्यो स्वाहा ॥\\[5pt]
+
+ॐ ऐं ह्रीं क्लीं श्रीं ह्सौः ब्रह्माण्यै १  कौमार्यै २ वाराह्यै ३ शाङ्कर्यै ४ इन्द्राण्यै ५ कङ्काल्यै ६ कराल्यै ७ काल्यै ८  महाकाल्यै ९ चामुण्डायै १० ज्वालामुख्यै ११ कामाख्यायै १२ कपालिन्यै १३ भद्रकाल्यै १४ दुर्गायै १५ अम्बिकायै १६ ललितायै १७ गौर्यै १८ सुमङ्गलायै १९ रौहिण्यै २० कपिलायै २१ शूलकरायै २२ कुण्डलिन्यै २३  त्रिपुरायै २४ कुरुकुल्लायै २५ भैरव्यै २६ भद्रायै २७ चन्द्रावल्यै २८ नारसिंह्यै २९ निरञ्जनायै ३० हेमकान्त्यै ३१ प्रेतासनायै ३२ ऐशान्यै ३३ वैश्वानर्यै ३४ वैष्णव्यै ३५ विनायक्यै ३६ यमघण्टायै ३७ हरिसिद्ध्यै ३८ सरस्वत्यै ३९ तोत्तलायै ४० वन्द्यै ४१ शङ्खिन्यै ४२ पद्मिन्यै ४३ चित्त्रिण्यै ४४ वारुण्यै ४५ नारायण्यै ४६ वनदेव्यै ४७ यमभगिन्यै ४८ सूर्यपुत्र्यै ४९ शीतलायै ५० कृष्णायै ५१ गारुड्यै ५२  रक्ताक्ष्यै ५३ कालारात्र्यै ५४ आकाश्यै ५५ श्रेष्ठिन्यै ५६ जयायै ५७ विजयायै ५८ धूम्रावत्यै ५९ वागीश्वर्यै ६० कात्यायन्यै ६१ अग्निहोत्र्यै ६२ वज्रेश्वर्यै ६३ महाविद्याया इश्वर्यै ६४ नमः स्वाहा ॥ 
+}}}
+\end{document}
