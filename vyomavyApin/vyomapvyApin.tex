@@ -1,0 +1,133 @@
+\documentclass[12pt]{article}
+\usepackage[margin=1.3in]{geometry}
+\usepackage{fontspec}
+\usepackage[english]{babel} 
+\newfontfamily\skt[Script=Devanagari]{Adobe Devanagari}
+\newfontfamily\sktr[Script=Devanagari]{Adishila}
+\usepackage{parskip}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{array}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+\usepackage{tikz}
+\usepackage{tikz-network}
+\usetikzlibrary{arrows, arrows.meta, patterns, shapes.geometric, shapes.misc, graphs, mindmap, calc}
+\title{\textbf{ {\color{Sepia}{\skt ॥ व्योमव्यापिन्॥ }}}}
+\author{}
+\date{}
+\begin{document}
+\newgeometry{left=1cm, bottom=2cm, right=1cm, top=2cm}	
+\maketitle
+\begin{center}
+	\tikzset{
+	petalu1/.pic={
+		\draw (0.5,2.5) .. controls (2.5,2.5) and (1.5,0) .. (3,0);
+		\draw (3,0) .. controls (1.5,0) and (2.5,-2.5) .. (0.5,-2.5);
+	}
+}
+
+	\tikzset{
+	kesara/.pic={
+\draw (3,1.5) .. controls (3.5,0.5) and (1,0) .. (0,0);
+\draw (0,0)  .. controls (1,0) and (3.5,-0.5) .. (3,-1.5);
+\draw (0,0) -- (3.5,0);
+}
+}
+
+\begin{tikzpicture}
+
+ %inner circle + triangle
+	\filldraw[line width=1, Blue] (0,0) circle(2);
+%triangles of śiva
+	\draw[line width=1, Goldenrod] (270:2) -- (30:2) -- (150:2) -- cycle;
+  \draw[line width=1, Goldenrod] (0,1) -- (1.4012585384, -1.4270509831) -- (-1.401259, -1.427051) -- cycle;
+  \draw[line width=1, Goldenrod] (-0.866025403784891, -0.5) -- (1.93649167310365, -0.5) -- (0.535233134659599, 1.92705098312447) -- cycle;
+  \draw[line width=1, Goldenrod] (-1.93649167310365, -0.5) -- (0.866025403784891, -0.5) -- (-0.535233134659599, 1.92705098312447) -- cycle;
+  \node[Goldenrod] (s1) at (0,0.1) {\large{\sktr{ह्सौं}}};
+  
+  %octagon of vidyeśvara-s
+  \draw[line width=1, Plum] (22.5:2.4) -- (67.5:2.4) -- (112.5:2.4) -- (157.5:2.4) -- (202.5:2.4) -- (247.5:2.4) -- (292.5:2.4) -- (337.5:2.4) --  cycle;
+  %octagon of pañchabrahma+maheśvara-gāyatrī+sāvitrī
+  \draw[line width=1, Plum] (22.5:2.6) -- (67.5:2.6) -- (112.5:2.6) -- (157.5:2.6) -- (202.5:2.6) -- (247.5:2.6) -- (292.5:2.6) -- (337.5:2.6) --  cycle;
+  %octagon of chaṇḍa
+  \draw[line width=1, Plum] (22.5:2.8) -- (67.5:2.8) -- (112.5:2.8) -- (157.5:2.8) -- (202.5:2.8) -- (247.5:2.8) -- (292.5:2.8) -- (337.5:2.8) --   cycle;
+
+% The foundation of ananta
+\draw[line width=1, Red] (0,0) circle(3);
+\draw[line width=1, Red] (0,0) circle(3.1);
+\draw[line width=1, Red] (0,0) circle(3.2);
+
+	%petals
+\foreach \x in {0,45,90, 135,180, 225,270, 315}{
+	\draw[Fuchsia, line width=1] (\x:3.3) pic[scale=0.6, rotate=\x] {petalu1};
+}
+%kesara  
+\foreach \x in {0,45,90, 135,180, 225,270, 315}{
+	\draw[WildStrawberry, line width=1] (\x:3.3) pic[scale=0.3, rotate=\x] {kesara};
+}
+
+%octagon of lokapāla-s
+\draw[line width=1, Blue] (22.5:5.75) -- (67.5:5.75) -- (112.5:5.75) -- (157.5:5.75) -- (202.5:5.75) -- (247.5:5.75) -- (292.5:5.75) -- (337.5:5.75) --   cycle;
+
+%square of vidyāṅga-s
+\draw[line width=1, Blue](45:8) -- (135:8) -- (225:8) -- (315:8) -- cycle;
+%circle of āyudha-s
+\draw[line width=1, Red, double] (0,0) circle(8.2);
+
+ %doors
+\draw[Periwinkle, rounded corners=3pt, line width=1.5, double] (.5,-9.5) -- (.5, -9) -- (9, -9) -- (9,-.5) -- (9.5, -.5);
+\foreach \x / \y in {-1/1, 1/-1, -1/-1}{
+	\begin{scope}[xscale=\x, yscale=\y]
+	\draw[Periwinkle, rounded corners=3pt, line width=1.5, double] (.5,-9.5) -- (.5, -9) -- (9, -9) -- (9,-.5) -- (9.5, -.5);
+	\end{scope}}
+\end{tikzpicture}\\	
+\end{center}
+\restoregeometry 
+{\color{NavyBlue}{\large{\sktr
+नवपदव्योमव्यापिन्-\\[5pt]
+{[}ॐ] व्योमव्यापिने व्योमरूपाय सर्वव्यापिने शिवाय अनन्ताय अनाथाय अनाश्रिताय शिवाय नमः ॥\\
+	
+द्वादशपदव्योमव्यापिन्-\\[5pt]
+{[}ॐ] व्योमव्यापिने व्योमव्याप्यरूपाय सर्वव्यापिने शिवाय अनन्ताय अनाथाय अनाश्रिताय ध्रुवाय शाश्वताय योगपीठसंस्थिताय नित्ययोगिने ध्यानाहाराय नमः ॥\\
+}}}
+
+
+{\large{\sktr
+{\color{Brown} व्योमव्यापिन् (मतङ्गपारमेश्वर-तन्त्रम्)}\\[5pt]
+{\color{CadetBlue} शिवाङ्गानि}\\[5pt]
+{\color{NavyBlue}ॐ । व्योमव्यापिने । व्योमरूपाय । सर्वव्यापिने । शिवाय |}\\[5pt]
+{\color{CadetBlue} विद्येश्वराः}\\[5pt]
+{\color{NavyBlue}अनन्ताय । अनाथाय । अनाश्रिताय । ध्रुवाय । शाश्वताय । योगपीठसंस्थिताय । नित्यं योगिने । ध्यानाहाराय ।}\\[5pt]
+{\color{CadetBlue} रुद्रगायत्री}\\[5pt]
+{\color{NavyBlue} ॐ नमः शिवाय }\\[5pt]
+{\color{CadetBlue} सावोत्री}\\[5pt]
+{\color{NavyBlue}  सर्वप्रभवे }\\[5pt]
+{\color{CadetBlue} विद्येश्वरोपचारम् } \\[5pt]
+{\color{NavyBlue}  शिवाय}\\[5pt]
+{\color{CadetBlue} पञ्चब्रह्मा-मन्त्राणि } \\[5pt]
+{\color{NavyBlue} ईशानमूर्धाय तत्पुरुषवक्त्राय अघोर-हृदयाय  वामदेव-गुह्याय  सद्योजातमूर्तये }\\[5pt]
+{\color{CadetBlue} चण्डेशः } \\[5pt]	
+{\color{NavyBlue} ॐ नमो नमः }\\[5pt]
+{\color{CadetBlue} चण्डेश-षडङ्गानि } \\[5pt]
+{\color{NavyBlue}  गुह्यातिगुह्याय ।  गोप्त्रे  ।  निधनाय । सर्वविद्याधिपाय  ।  ज्योतीरूपाय  । परमेश्वरवराय नमः । }\\[5pt]	
+{\color{CadetBlue} चण्डेश-शासनम् } \\[5pt]
+{\color{NavyBlue} अचेतन अचेतन}\\[5pt]
+{\color{CadetBlue} अनन्तासनम् } \\[5pt]
+{\color{NavyBlue}  व्योमिन् व्योमिन् ।  व्यापिन् व्यापिन् । अरूपिन् अरूपिन् । प्रथम प्रथम ।  तेजस् तेज ।ज्योतिर्-ज्योतिः । \\[5pt] }
+{\color{CadetBlue} केसरमन्त्राणि } \\[5pt]
+{\color{NavyBlue}  अरूप । अनग्ने । अधूम। अभस्म । अनादे । ना ना ना ।  धू धू धू ।  भूः । भुवः । स्वः । अनिधन । निधन । निधनोद्भव । शिव ।  सर्व । परमात्मन् । महेश्वर । महादेव । सद्भावेश्वर । महातेज । योगाधिपते ।  मुञ्च मुञ्च । प्रथम प्रथम । शर्व शर्व । भव भव । भवोद्भव । सर्वभूतसुखप्रद ।  सर्व-सान्निध्यकर । ब्रह्म-विष्णु-रुद्र-पर । अनर्चित अनर्चित । असंस्तुत असंस्तुत। पूर्वस्थित पूर्वस्थित । }\\[5pt]
+{\color{CadetBlue} कमलः } \\[5pt]	
+{\color{NavyBlue} साक्षिन् साक्षिन् ।}\\[5pt]	
+{\color{CadetBlue} लोकपालाः } \\[5pt]	
+{\color{NavyBlue} तुरु तुरु । पतङ्ग पतङ्ग । पिङ्ग पिङ्ग । ज्ञान ज्ञान । शब्द शब्द। सूक्ष्म सूक्ष्म । शिव । शर्व ।  }\\[5pt]
+{\color{CadetBlue} विद्याङ्गानि } \\[5pt]	
+{\color{NavyBlue} सर्वद । ॐ नमो नमः । ॐ शिवाय | नमो नमः । }\\[5pt]
+{\color{CadetBlue} वज्राद्यायुधमन्त्रम्} \\[5pt]	
+{\color{NavyBlue} ॐ ॥}
+}}
+\end{document}
