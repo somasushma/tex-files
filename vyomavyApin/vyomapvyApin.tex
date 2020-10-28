@@ -16,7 +16,7 @@
 \graphicspath{ {images/} }
 \usepackage{tikz}
 \usepackage{tikz-network}
-\usetikzlibrary{arrows, arrows.meta, patterns, shapes.geometric, shapes.misc, graphs, mindmap, calc}
+\usetikzlibrary{arrows, arrows.meta, patterns, shapes.geometric, shapes.misc, graphs, mindmap, calc, backgrounds}
 \title{\textbf{ {\color{Sepia}{\skt ॥ व्योमव्यापी॥ }}}}
 \author{}
 \date{}
@@ -40,52 +40,56 @@
 }
 
 \begin{tikzpicture}
-
- %inner circle + triangle
-	\filldraw[line width=1, Blue] (0,0) circle(2);
-%triangles of śiva
-	\draw[line width=1, Goldenrod] (270:2) -- (30:2) -- (150:2) -- cycle;
-  \draw[line width=1, Goldenrod] (0,1) -- (1.4012585384, -1.4270509831) -- (-1.401259, -1.427051) -- cycle;
-  \draw[line width=1, Goldenrod] (-0.866025403784891, -0.5) -- (1.93649167310365, -0.5) -- (0.535233134659599, 1.92705098312447) -- cycle;
-  \draw[line width=1, Goldenrod] (-1.93649167310365, -0.5) -- (0.866025403784891, -0.5) -- (-0.535233134659599, 1.92705098312447) -- cycle;
-  \node[Goldenrod] (s1) at (0,0.1) {\large{\sktr{ह्सौं}}};
-  
-  %octagon of vidyeśvara-s
-  \draw[line width=1, Plum] (22.5:2.4) -- (67.5:2.4) -- (112.5:2.4) -- (157.5:2.4) -- (202.5:2.4) -- (247.5:2.4) -- (292.5:2.4) -- (337.5:2.4) --  cycle;
-  %octagon of pañchabrahma+maheśvara-gāyatrī+sāvitrī
-  \draw[line width=1, Plum] (22.5:2.6) -- (67.5:2.6) -- (112.5:2.6) -- (157.5:2.6) -- (202.5:2.6) -- (247.5:2.6) -- (292.5:2.6) -- (337.5:2.6) --  cycle;
-  %octagon of chaṇḍa
-  \draw[line width=1, Plum] (22.5:2.8) -- (67.5:2.8) -- (112.5:2.8) -- (157.5:2.8) -- (202.5:2.8) -- (247.5:2.8) -- (292.5:2.8) -- (337.5:2.8) --   cycle;
-
-% The foundation of ananta
-\draw[line width=1, Red] (0,0) circle(3);
-\draw[line width=1, Red] (0,0) circle(3.1);
-\draw[line width=1, Red] (0,0) circle(3.2);
-
-	%petals
-\foreach \x in {0,45,90, 135,180, 225,270, 315}{
-	\draw[Fuchsia, line width=1] (\x:3.3) pic[scale=0.6, rotate=\x] {petalu1};
-}
-%kesara  
-\foreach \x in {0,45,90, 135,180, 225,270, 315}{
-	\draw[WildStrawberry, line width=1] (\x:3.3) pic[scale=0.3, rotate=\x] {kesara};
-}
-
-%octagon of lokapāla-s
-\draw[line width=1, Blue] (22.5:5.75) -- (67.5:5.75) -- (112.5:5.75) -- (157.5:5.75) -- (202.5:5.75) -- (247.5:5.75) -- (292.5:5.75) -- (337.5:5.75) --   cycle;
-
-%square of vidyāṅga-s
-\draw[line width=1, Blue](45:8) -- (135:8) -- (225:8) -- (315:8) -- cycle;
-%circle of āyudha-s
-\draw[line width=1, Red, double] (0,0) circle(8.2);
-
  %doors
 \draw[Periwinkle, rounded corners=3pt, line width=1.5, double] (.5,-9.5) -- (.5, -9) -- (9, -9) -- (9,-.5) -- (9.5, -.5);
 \foreach \x / \y in {-1/1, 1/-1, -1/-1}{
 	\begin{scope}[xscale=\x, yscale=\y]
 	\draw[Periwinkle, rounded corners=3pt, line width=1.5, double] (.5,-9.5) -- (.5, -9) -- (9, -9) -- (9,-.5) -- (9.5, -.5);
 	\end{scope}}
+
+
+
+%circle of āyudha-s
+\draw[line width=1, Red, double, fill=Red!5] (0,0) circle(8.2);
+%square of vidyāṅga-s
+\draw[line width=1, Blue, fill=Blue!10](45:8) -- (135:8) -- (225:8) -- (315:8) -- cycle;
+
+%octagon of lokapāla-s
+\draw[line width=2, Green, fill=Green!20] (22.5:5.75) -- (67.5:5.75) -- (112.5:5.75) -- (157.5:5.75) -- (202.5:5.75) -- (247.5:5.75) -- (292.5:5.75) -- (337.5:5.75) --   cycle;
+
+%petals
+\foreach \x in {0,45,90, 135,180, 225,270, 315}{
+	\draw[Fuchsia, line width=1.5, fill=Fuchsia] (\x:3.3) pic[scale=0.6, rotate=\x] {petalu1};
+}
+%kesara  
+\foreach \x in {0,45,90, 135,180, 225,270, 315}{
+	\draw[Orange, line width=1.5] (\x:3.3) pic[scale=0.25, rotate=\x] {kesara};
+}
+% The foundation of ananta
+\draw[line width=1, Red, fill=Red!5] (0,0) circle(3.2);
+\draw[line width=1, Red,  fill=Red!5] (0,0) circle(3.1);
+\draw[line width=1, Red,  fill=Red!5] (0,0) circle(3);
+
+
+%octagon of chaṇḍa
+\draw[line width=1, Plum, fill=Plum] (22.5:2.8) -- (67.5:2.8) -- (112.5:2.8) -- (157.5:2.8) -- (202.5:2.8) -- (247.5:2.8) -- (292.5:2.8) -- (337.5:2.8) --   cycle;
+%octagon of pañchabrahma+maheśvara-gāyatrī+sāvitrī
+\draw[line width=1, Plum, fill=White] (22.5:2.6) -- (67.5:2.6) -- (112.5:2.6) -- (157.5:2.6) -- (202.5:2.6) -- (247.5:2.6) -- (292.5:2.6) -- (337.5:2.6) --  cycle;
+%octagon of vidyeśvara-s
+\draw[line width=1, Plum, fill=Plum] (22.5:2.4) -- (67.5:2.4) -- (112.5:2.4) -- (157.5:2.4) -- (202.5:2.4) -- (247.5:2.4) -- (292.5:2.4) -- (337.5:2.4) --  cycle;
+
+ %inner circle + triangle
+	\filldraw[line width=1, Blue] (0,0) circle(2);
+%triangles of śiva
+\draw[line width=1, Goldenrod] (270:2) -- (30:2) -- (150:2) -- cycle;
+  \draw[line width=1, Goldenrod] (0,1) -- (1.4012585384, -1.4270509831) -- (-1.401259, -1.427051) -- cycle;
+  \draw[line width=1, Goldenrod] (-0.866025403784891, -0.5) -- (1.93649167310365, -0.5) -- (0.535233134659599, 1.92705098312447) -- cycle;
+  \draw[line width=1, Goldenrod] (-1.93649167310365, -0.5) -- (0.866025403784891, -0.5) -- (-0.535233134659599, 1.92705098312447) -- cycle;
+  \node[Goldenrod] (s1) at (0,0.1) {\large{\sktr{ह्सौं}}};
+  
+
 \end{tikzpicture}\\	
+
 \end{center}
 \restoregeometry 
 {\color{NavyBlue}{\large{\sktr
